@@ -27,7 +27,7 @@
 </p>
 ### 🐱My Github stats:
 
-[![Top Langs](https://octoprofile.vercel.app/user?id=llopezgillue)
+(https://octoprofile.vercel.app/user?id=llopezgillue)
 
 
 
