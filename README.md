@@ -25,7 +25,9 @@
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,firebase,github,html,js,ts,angular,sass" />
   </a>
 </p>
-[![Top Langs](https://octoprofile.vercel.app/user?id=llopezgillue)
+### 🐱My Github stats:
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://g
 
 
 
