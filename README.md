@@ -25,6 +25,7 @@
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,firebase,github,html,js,ts,angular,sass" />
   </a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
