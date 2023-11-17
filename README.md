@@ -22,22 +22,10 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,firebase,github,html,js,ts" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,firebase,github,html,js,ts,angular,sass" />
   </a>
 </p>
 
----
-### 🐱My Github stats:
-![Luis github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.
-
----
 
 
