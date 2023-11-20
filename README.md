@@ -27,7 +27,17 @@
 </p>
 ### 🐱My Github stats:
 
-(https://octoprofile.vercel.app/user?id=llopezgillue)
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=llopezgillue&show_icons=true&locale=en&layout=compact" alt="llopezgillue" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=llopezgillue&show_icons=true&locale=en" alt="llopezgillue" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=llopezgillue&" alt="llopezgillue" /></p>
 
 
 
