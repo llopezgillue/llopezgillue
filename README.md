@@ -25,7 +25,6 @@
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,firebase,github,html,js,ts,angular,sass" />
   </a>
 </p>
-### 🐱My Github stats:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
